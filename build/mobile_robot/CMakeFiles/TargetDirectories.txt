@@ -1,0 +1,9 @@
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/uninstall.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/mobile_robot_uninstall.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/test.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/edit_cache.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/rebuild_cache.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/list_install_components.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/install.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/install/local.dir
+/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot/CMakeFiles/install/strip.dir

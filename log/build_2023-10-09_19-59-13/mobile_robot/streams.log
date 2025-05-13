@@ -1,0 +1,49 @@
+[0.055s] Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pratik/ros2_ws/src/mobile_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot
+[0.135s] -- The C compiler identification is GNU 11.4.0
+[0.212s] -- The CXX compiler identification is GNU 11.4.0
+[0.220s] -- Detecting C compiler ABI info
+[0.282s] -- Detecting C compiler ABI info - done
+[0.289s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.293s] -- Detecting C compile features
+[0.294s] -- Detecting C compile features - done
+[0.297s] -- Detecting CXX compiler ABI info
+[0.366s] -- Detecting CXX compiler ABI info - done
+[0.374s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.374s] -- Detecting CXX compile features
+[0.375s] -- Detecting CXX compile features - done
+[0.380s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.536s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.599s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.622s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.701s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.702s] -- Configured cppcheck include dirs: 
+[0.702s] -- Configured cppcheck exclude dirs and/or files: 
+[0.703s] -- Added test 'lint_cmake' to check CMake code style
+[0.707s] -- Added test 'uncrustify' to check C / C++ code style
+[0.707s] -- Configured uncrustify additional arguments: 
+[0.708s] -- Added test 'xmllint' to check XML markup files
+[0.709s] -- Configuring done
+[0.712s] -- Generating done
+[0.713s] -- Build files have been written to: /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot
+[0.716s] Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pratik/ros2_ws/src/mobile_robot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot
+[0.718s] Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot -- -j8 -l8
+[0.749s] Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot -- -j8 -l8
+[0.773s] Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot
+[0.780s] -- Install configuration: ""
+[0.780s] -- Execute custom install script
+[0.780s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+[0.788s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+[0.795s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+[0.803s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+[0.811s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/path.sh
+[0.819s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/path.dsv
+[0.827s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.bash
+[0.835s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.sh
+[0.843s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.zsh
+[0.851s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.dsv
+[0.859s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/package.dsv
+[0.870s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+[0.879s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+[0.886s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+[0.893s] -- Symlinking: /home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/package.xml
+[0.903s] Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot

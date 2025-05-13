@@ -1,0 +1,15 @@
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/package_run_dependencies/mobile_robot
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/parent_prefix_path/mobile_robot
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.sh
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/ament_prefix_path.dsv
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/path.sh
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/environment/path.dsv
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.bash
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.sh
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.zsh
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/local_setup.dsv
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/package.dsv
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/ament_index/resource_index/packages/mobile_robot
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig.cmake
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/cmake/mobile_robotConfig-version.cmake
+/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot/share/mobile_robot/package.xml

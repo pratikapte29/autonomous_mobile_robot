@@ -1,0 +1,6 @@
+Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pratik/ros2_ws/src/mobile_robot -DCMAKE_INSTALL_PREFIX=/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot
+Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/pratik/ros2_ws/src/mobile_robot -DCMAKE_INSTALL_PREFIX=/home/pratik/ros2_ws/src/mobile_robot/install/mobile_robot
+Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot -- -j8 -l8
+Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot -- -j8 -l8
+Invoking command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot
+Invoked command in '/home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/pratik/ros2_ws/src/mobile_robot/build/mobile_robot
